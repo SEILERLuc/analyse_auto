@@ -639,6 +639,7 @@ Year;Country_Name;Nbr_Cars;Nbr_Commercial_Vehicle;Total;Percent_Change;Continent
 2015-01-01;Usa;4163679;7936416;12100095;3.8%;North America
 2015-01-01;Uzbekistan;185400;0;185400;-24.5%;Asia
 2015-01-01;Others;693817;138866;832683;19.1%;Other
+2015-01-01;Total;68539516;22241067;90780583;1.1%;Entire World
 2016-01-01;Argentina;241315;231461;472776;-10.2%;South America
 2016-01-01;Australia;149000;12294;161294;-6.8%;Oceania
 2016-01-01;Austria;90000;18000;108000;-10.9%;Europe
@@ -759,8 +760,9 @@ Year;Country_Name;Nbr_Cars;Nbr_Commercial_Vehicle;Total;Percent_Change;Continent
 2018-01-01;Usa;2795971;8518734;11314705;1.1%;North America
 2018-01-01;Uzbekistan;220667;0;220667;57.3%;Asia
 2018-01-01;Others;341554;152230;493784;0%;Other
+2018-01-01;Total;70498388;25136912;95634593;-1.1%;Entire World
 2019-01-01;Argentina;108364;206423;314787;-32,5%;South America
-2019-01-01;Austria;158 400;21000;179400;8,8%;Europe
+2019-01-01;Austria;158400;21000;179400;8,8%;Europe
 2019-01-01;Belgium;247020;38777;285797;-7,4%;Europe
 2019-01-01;Brazil;2448490;496498;2944988;2,2%;South America
 2019-01-01;Canada;461370;1455215;1916585;-5,4%;North America
@@ -797,6 +799,7 @@ Year;Country_Name;Nbr_Cars;Nbr_Commercial_Vehicle;Total;Percent_Change;Continent
 2019-01-01;Usa;2512780;8367239;10880019;-3,7%;North America
 2019-01-01;Uzbekistan;271113;0;271113;22,9%;Asia
 2019-01-01;Others;1048191;59652;1108503;0%;Other
+2019-01-01;Total;67149196;24637665;91786861;-5,2%;Entire World
 2020-01-01;Argentina;93001;164186;257187;-18%;South America
 2020-01-01;Austria;104544;0;104544;-42%;Europe
 2020-01-01;Belgium;237057;30403;267460;-6%;Europe
@@ -836,13 +839,14 @@ Year;Country_Name;Nbr_Cars;Nbr_Commercial_Vehicle;Total;Percent_Change;Continent
 2020-01-01;Usa;1926795;6895604;8822399;-19%;North America
 2020-01-01;Uzbekistan;280080;0;280080;3%;Asia
 2020-01-01;Others;709633;109475;819108;0%;Other
+2020-01-01;Total;55834456;21787126;77621582;-16%;Entire World
 2021-01-01;Argentina;184106;250647;434753;69%;South America
 2021-01-01;Austria;124700;12000;136700;9%;Europe
 2021-01-01;Belgium;224180;36858;261038;-2%;Europe
 2021-01-01;Brazil;1707851;540402;2248253;12%;South America
-2021-01-01;Canada;288 235;826767;1115002;-19%;North America
+2021-01-01;Canada;288235;826767;1115002;-19%;North America
 2021-01-01;China;21407962;4674258;26082220;3%;Asia
-2021-01-01;Czech republic;1 105 223;6209;1111432;-4%;Europe
+2021-01-01;Czech republic;1105223;6209;1111432;-4%;Europe
 2021-01-01;Egypt;23754;0;23754;0%;Africa
 2021-01-01;Finland;93172;0;93172;8%;Europe
 2021-01-01;France;917907;433401;1351308;3%;Europe
@@ -872,8 +876,9 @@ Year;Country_Name;Nbr_Cars;Nbr_Commercial_Vehicle;Total;Percent_Change;Continent
 2021-01-01;Ukraine;7342;811;8153;65%;Europe
 2021-01-01;United kingdom;859575;72913;932488;-6%;Europe
 2021-01-01;Usa;1563060;7604154;9167214;4%;North America
-2021-01-01;Uzbekistan;236 667;4982;241649;-15%;Asia
+2021-01-01;Uzbekistan;236667;4982;241649;-15%;Asia
 2021-01-01;Others;1645014;183930;1828944;0%;Other
+2021-01-01;Total;57054295;23091693;80145988;3%;Entire World
 2022-01-01;Argentina;257505;279388;536893;24%;South America
 2022-01-01;Austria;107500;0;107500;-21%;Europe
 2022-01-01;Belgium;232100;44454;276554;6%;Europe
@@ -911,3 +916,4 @@ Year;Country_Name;Nbr_Cars;Nbr_Commercial_Vehicle;Total;Percent_Change;Continent
 2022-01-01;Usa;1751736;8308603;10060339;10%;North America
 2022-01-01;Uzbekistan;328118;5451;333569;38%;Asia
 2022-01-01;Others;1790867;239271;2030138;0%;Other
+2022-01-01;Total;61598650;23418078;85016728;6%;Entire World
