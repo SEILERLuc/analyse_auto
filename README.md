@@ -1,18 +1,23 @@
-# Étude sur l'Évolution de la Production Automobile
+# Study on the Evolution of Automobile Production
 
-Ce projet concerne l'évolution de la production automobile. Il utilise des données historiques pour analyser et prévoir la production future.
+This project focuses on the evolution of automobile production. It uses historical data to analyze and forecast future production.
 
-## Structure du Projet
+## Project Structure
 
-- **datasets/** : Contient les datasets utilisés pour l'analyse.
-- **previsions/** : Contient les prévisions générées à partir des analyses.
-- **cleaning.ipynb** : Notebook Jupyter pour le nettoyage et la préparation des données.
-- **power_bi** : Contient le fichier Power BI pour la visualisation des données.
-- **requirements.txt** : Fichier listant toutes les dépendances nécessaires pour exécuter ce projet.
+- **datasets/** : Contains the datasets used for analysis.
+- **previsions/** : Contains the forecasts generated from the analyses.
+- **cleaning.ipynb** : Jupyter notebook for data cleaning and preparation.
+- **power_bi/** : Contains the Power BI file for data visualization.
+- **requirements.txt** : File listing all the dependencies required to run this project.
 
-## Installation des Dépendances
+## Installing Dependencies
 
-Avant de commencer, assurez-vous d'installer toutes les dépendances listées dans le fichier `requirements.txt`. Vous pouvez les installer en utilisant pip :
+Before starting, make sure to install all the dependencies listed in the `requirements.txt` file. You can install them using pip:
 
 ```sh
 pip install -r requirements.txt
+```
+
+## Launch Jupyter Notebook
+
+After that, run the jupyter notebook `cleaning.ipynb`. An HTML version is also available for this file
