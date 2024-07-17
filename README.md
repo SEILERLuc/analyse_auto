@@ -7,7 +7,7 @@ This project focuses on the evolution of automobile production. It uses historic
 - **datasets/** : Contains the datasets used for analysis.
 - **previsions/** : Contains the forecasts generated from the analyses.
 - **cleaning_final.ipynb** : Jupyter notebook for data cleaning and preparation.
-- **production_analyse.pbid** : The Power BI file for data visualization.
+- **production_analyse.pbix** : The Power BI file for data visualization.
 - **requirements.txt** : File listing all the dependencies required to run this project.
 
 ## Installing Dependencies
