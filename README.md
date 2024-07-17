@@ -6,8 +6,8 @@ This project focuses on the evolution of automobile production. It uses historic
 
 - **datasets/** : Contains the datasets used for analysis.
 - **previsions/** : Contains the forecasts generated from the analyses.
-- **cleaning.ipynb** : Jupyter notebook for data cleaning and preparation.
-- **power_bi/** : Contains the Power BI file for data visualization.
+- **cleaning_final.ipynb** : Jupyter notebook for data cleaning and preparation.
+- **production_analyse.pbid** : The Power BI file for data visualization.
 - **requirements.txt** : File listing all the dependencies required to run this project.
 
 ## Installing Dependencies
@@ -20,4 +20,8 @@ pip install -r requirements.txt
 
 ## Launch Jupyter Notebook
 
-After that, run the jupyter notebook `cleaning.ipynb`. An HTML version is also available for this file
+After that, run the jupyter notebook `cleaning.ipynb`. An HTML version is also available for this file.
+
+## Power BI
+
+Then, you can start the Power BI report. And do what you want on it.
